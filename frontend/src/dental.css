@@ -1,0 +1,93 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    position:relative;
+    
+    
+    
+    
+}
+
+.doctor-container{
+    margin-top: 0px;
+    padding: auto;
+    padding: 10% 10%;
+    background-color: blueviolet;
+    justify-content: space-evenly;
+
+}
+
+
+.card.doctor-card{
+    text-align: center;
+    border-radius: 20px;
+    padding: 0 ;
+    justify-content: space-evenly;
+    
+}
+
+.doctor-card-img{
+    height: 180px;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    position:relative;
+    
+}
+/* body::-webkit-scrollbar {
+    width:.7rem;
+    cursor: pointer;
+    transition:.4s ease all;
+    opacity:.9;
+    z-index: -1;
+    } */
+
+.navbar-nav{
+    background:blue;
+    /* background-color: bisque; */
+    border: none;
+}
+
+.doctor-container{
+    /* margin-left: 165px; */
+    /* top: 55px; */
+    /* height: max-content; */
+    /* width: 100%; */
+    /* bottom: auto; */
+    padding: 55px;
+    background: linear-gradient(blue,lightblue);
+    /* margin: auto; */
+    /* background-color: #000; */
+    /* margin-top: 5%; */
+    /* padding: 25px; */
+    /* background-color:lightblue; */
+    /* justify-content: center; */
+    /* margin-left: 150px; */
+    /* display: flex; */
+    /* align-items:center ; */
+    
+}
+
+.card.doctor-card{
+    text-align: center;
+    border: 2.5px solid darkblue;
+    border-radius: 20px;
+    padding: 18px;
+    margin-left: 10%;
+    /* top: 1%; */
+    /* justify-content: center; */
+}
+
+.doctor-card-img{
+    height: 180px;
+}
+
+.logo{
+    padding: 10px;
+}

@@ -1,0 +1,169 @@
+/* .appointmentform{
+    background-color: aquamarine;
+    display: inline-flex;
+    margin:50%;
+}
+
+.appointmentform p{
+    font-size: 14px;
+    font-weight: 600;
+    justify-content: center;
+
+} */
+/* 
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  form {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    background: #f2f2f2;
+    border-radius: 8px;
+  }
+  
+  .form-field {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="date"],
+  input[type="time"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background: #45a049;
+  }
+  
+  @media screen and (max-width: 480px) {
+    form {
+      max-width: 100%;
+    }
+  }
+  
+
+  .logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  
+  .logo img {
+    width: 100px;
+    height: auto;
+  } */
+
+
+  /* .appointmentform{
+    background-color: aquamarine;
+    display: inline-flex;
+    margin:50%;
+}
+
+.appointmentform p{
+    font-size: 14px;
+    font-weight: 600;
+    justify-content: center;
+
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* Paste the responsive CSS code here */
+
+.logo {
+    /* position: absolute; */
+    top: 20px;
+    right: 20px;
+  }
+  
+  .logo img {
+    width: 290px;
+    height: auto;
+  }  
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: ; */
+    background: linear-gradient(darkblue,lightblue);
+  }
+  
+  form {
+    /* max-width: 400px; */
+    width: 100%;
+    height: fit-content;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    border: 4.5px  darkblue;
+  }
+  
+  .form-field {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="date"],
+  input[type="time"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background: #45a049;
+  }
+  
+  @media screen and (max-width: 480px) {
+    form {
+      max-width: 100%;
+    }
+  }
+  

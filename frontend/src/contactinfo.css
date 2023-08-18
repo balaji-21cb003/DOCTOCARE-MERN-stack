@@ -1,0 +1,148 @@
+
+
+.footer{
+  background-color: rgb(162, 158, 158);
+  margin: auto;
+
+}
+
+
+.root-footer {
+ color: black;
+ background-color:  rgb(162, 158, 158);
+ padding-bottom: 50px;
+ display: flex;
+ font-family: Arial, Helvetica, sans-serif;
+ margin-top: 45px;
+ padding: 3rem 0 3rem 0;
+ 
+}
+
+.fh a {
+ color: black;
+ text-decoration: none;
+ margin-bottom: 0.5rem;
+}
+
+.fh a:hover {
+ 
+ color: red;
+ transition: 0.4 ease-out;
+}
+
+footer div h2 {
+ margin-bottom: 2rem;
+}
+
+.fh {
+ display: flex;
+ flex-direction: column;
+ padding-right: 9rem;
+ margin-left: 5rem;
+ justify-content: center;
+}
+
+#footer_email_button {
+ width: 250px;
+ height: 40px;
+ border-radius: 6px;
+ border: none;
+ outline: none;
+}
+
+.footer-email-button {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ padding-bottom: 3rem;
+ padding-top: 1.5rem;
+}
+
+#footer_signup_button {
+ width: 100px;
+ height: 40px;
+ border-radius: 5px;
+ background-color: black;
+ color: white;
+ margin-left: 0.8rem;
+}
+
+#footer_signup_button:hover{
+ cursor: pointer;
+ background: green;
+ transition: 0.5 ease-out;
+}
+
+.hhtag {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: xx-large;
+}
+
+
+.footer-icon{
+  text-decoration: none;
+  margin-left: 650px;
+  cursor: pointer;
+  
+}
+.footer-icon li{
+  list-style: none;
+  display: inline-flex;
+  padding: 10px;
+  transition: 1s;
+
+}
+
+.footer-icon li a:hover{
+  transform: translate(0px,-10px);
+
+}
+
+
+
+/* .sm-icons {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ padding-bottom: 3rem;
+ 
+}
+
+.sm-icons a{
+  justify-content: space-between;
+} */
+
+
+
+.sm-wordings {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ 
+}
+.sm-wordings a{
+  text-decoration: none;
+  color: black;
+}
+
+.smw {
+ padding-right: 10px;
+}
+
+.lstftr {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   padding-top: 6px;
+}
+
+body {
+ background-color: rgb(162, 158, 158);
+}
+
+.insta-icon{
+  border-radius: 8.5px;
+}
